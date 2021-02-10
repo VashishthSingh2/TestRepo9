@@ -2,14 +2,8 @@ line1
 line2
 
 
-
-
-
-
-
 Muni
 Muni
 line5
 line6
 line7
-
